@@ -1,9 +1,12 @@
 body{
     background-color: rgb(156, 138, 173);
-    color: rgb(10, 10, 10)
-    
+    color: rgb(10, 10, 10);
+    font-size: 40px;
+    text-align: center
+    ;
 
-}
+
+
 
 p{
     text-align: center; 
