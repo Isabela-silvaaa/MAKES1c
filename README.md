@@ -1,4 +1,4 @@
-# MAKES1c
+# MAKES1c isabela
 -"bem-vindos á beleza reimaginada! Estamos orgulhosos em anunciar a abertura da nossa loja de maquiagem e acessórios,onde a sua jornada de 
 beleza começa."
 -"Prepare-se para uma experiência única de maquiagem! Nossa loja está pronta para transformar sua aparência e elevar sua aparencia e elevar 
